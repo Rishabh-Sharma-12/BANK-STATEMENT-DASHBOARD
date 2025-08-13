@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+python-docx
+numpy
+transformers
+python-dotenv
+langchain
+langchain-groq
+torch
+python-docx
+docx
