@@ -29,14 +29,14 @@
 
 ## Features
 
-- 📂 **Upload Bank Statements**: Supports common bank statement formats (CSV, XLSX, PDF).
+- 📂 **Upload Bank Statements**: Supports common bank statement formats (CSV, XLSX,).[CANARA BANK]
 - 📊 **Visual Analytics**: Pie charts, line graphs, and bar charts for your income and expenses.
 - 🔍 **Transaction Categorization**: Automatically categorizes your transactions (e.g., groceries, utilities, shopping).
 - 📅 **Time-based Filtering**: Analyze transactions by month, quarter, or year.
 - 🏦 **Multi-Account Support**: Manage data from multiple bank accounts in one dashboard.
 - 📈 **Savings & Spending Trends**: Identify patterns and set financial goals.
 - 🔔 **Alerts & Recommendations**: Notifies you of unusual activity or overspending.
-- 🗂️ **Export Reports**: Download custom spending reports as PDF or CSV.
+- 🗂️ **Export Reports**: Download custom spending reports as DOCS.
 
 ---
 
@@ -133,18 +133,10 @@ If you have suggestions, bug reports, or want to add new features:
 
 ---
 
-## License
-
-Distributed under the MIT License.  
-See [`LICENSE`](LICENSE) for more information.
-
----
-
 ## Contact
 
 - **Author:** Rishabh Sharma
 - **GitHub:** [@Rishabh-Sharma-12](https://github.com/Rishabh-Sharma-12)
-- **Email:** [Add your email here]
 
 ---
 
