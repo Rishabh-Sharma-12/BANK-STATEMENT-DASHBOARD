@@ -39,9 +39,7 @@
 - 🗂️ **Export Reports**: Download custom spending reports as DOCS.
 
 ---
-
 ## Demo
-> # Bank Statement Dashboard
 
 ## 📸 Dashboard Screenshots
 
