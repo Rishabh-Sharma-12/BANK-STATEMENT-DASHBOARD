@@ -41,9 +41,6 @@
 ---
 
 ## Demo
-
-> **Note:** Add screenshots or a link to a hosted demo here.
->
 > # Bank Statement Dashboard
 
 ## 📸 Dashboard Screenshots
