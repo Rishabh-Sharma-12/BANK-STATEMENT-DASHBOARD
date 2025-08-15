@@ -44,7 +44,24 @@
 
 > **Note:** Add screenshots or a link to a hosted demo here.
 >
-> ![Dashboard Screenshot](demo/dashboard_screenshot.png)
+> # Bank Statement Dashboard
+
+## 📸 Dashboard Screenshots
+
+### Main View
+![Main Dashboard](DASH-IMG/MAIN.png)
+
+### Page 1
+![Page 1 - Overview](DASH-IMG/PG-1.0.png)  
+
+### Page 2
+![Page 2 - Summary](DASH-IMG/PG-2.0.png)  
+
+### Page 3
+![Page 3](DASH-IMG/PG-3.png)
+
+### Page 4
+![Page 4 - Overview](DASH-IMG/PG-4.0.png)  
 
 ---
 
